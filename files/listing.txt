@@ -4,7 +4,6 @@ drwxr-xr-x   5 root         admin     170 Apr  1 12:40 ..
 -rw-------   1 jmccullough  staff       3 Apr  1 12:40 .CFUserTextEncoding
 -rw-r--r--@  1 jmccullough  staff   21508 Apr 26 10:47 .DS_Store
 drwx------   8 jmccullough  staff     272 Apr 26 10:51 .Trash
-drwxr-xr-x@  8 jmccullough  staff     272 Apr 23 12:58 .atom
 -rw-------   1 jmccullough  staff    1885 Apr 11 14:27 .bash_history
 -rw-r--r--   1 jmccullough  staff      17 Apr 11 14:25 .bash_profile
 drwx------  14 jmccullough  staff     476 Apr 26 08:40 .dropbox
@@ -15,7 +14,6 @@ drwxr-xr-x   4 jmccullough  staff     136 Apr  4 13:20 .gem
 -rw-r--r--   1 jmccullough  staff     893 Apr 12 13:06 .gitk
 -rw-------   1 jmccullough  staff      43 Apr 26 10:54 .lesshst
 drwxr-xr-x  14 jmccullough  staff     476 Apr  4 10:52 .oh-my-zsh
--rw-r--r--   1 jmccullough  staff      80 Apr 11 14:19 .profile
 drwx------   3 jmccullough  staff     102 Apr  2 16:17 .ssh
 -rw-------   1 jmccullough  staff    9224 Apr 26 11:12 .viminfo
 -rw-r--r--   1 jmccullough  staff   35322 Apr  7 20:13 .zcompdump
@@ -26,16 +24,14 @@ drwx------   3 jmccullough  staff     102 Apr  2 16:17 .ssh
 -rw-------   1 jmccullough  staff  162618 Apr 26 11:55 .zsh_history
 -rw-r--r--   1 jmccullough  staff    1419 Apr  9 15:41 .zshrc
 drwx------+ 10 jmccullough  staff     340 Apr 25 15:15 Desktop
-drwx------+  3 jmccullough  staff     102 Apr  1 12:40 Documents
+drwx------+  3 jmccullough  staff     102 Apr  1 12:40 Documentz
 drwx------+  8 jmccullough  staff     272 Apr 26 10:47 Downloads
 drwx------@ 21 jmccullough  staff     714 Apr 25 21:40 Dropbox
 drwx------@ 47 jmccullough  staff    1598 Apr 10 09:29 Library
 drwx------+  3 jmccullough  staff     102 Apr  1 12:40 Movies
-drwx------+  4 jmccullough  staff     136 Apr  8 15:45 Music
+drwx------+  4 jmccullough  staff     136 Apr  8 15:45 Muzak
 drwx------+  5 jmccullough  staff     170 Apr 18 18:05 Pictures
 drwxr-xr-x+  4 jmccullough  staff     136 Apr  1 12:40 Public
-drwxr-xr-x   5 jmccullough  staff     170 Apr 24 20:07 Virtual Machines
 drwxr-xr-x  12 jmccullough  staff     408 Apr  9 07:12 github
 drwxr-xr-x   9 jmccullough  staff     306 Apr 26 09:28 scratch
 drwxr-xr-x   4 jmccullough  staff     136 Apr 26 10:47 scripts
-drwxr-xr-x   2 jmccullough  staff      68 Apr  1 13:09 src
