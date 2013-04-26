@@ -1,6 +1,4 @@
 total 560
-drwxr-xr-x+ 40 jmccullough  staff    1360 Apr 26 11:55 .
-drwxr-xr-x   5 root         admin     170 Apr  1 12:40 ..
 -rw-------   1 jmccullough  staff       3 Apr  1 12:40 .CFUserTextEncoding
 -rw-r--r--@  1 jmccullough  staff   21508 Apr 26 10:47 .DS_Store
 drwx------   8 jmccullough  staff     272 Apr 26 10:51 .Trash
