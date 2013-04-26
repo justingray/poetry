@@ -1,0 +1,7 @@
+junk*.txt
+*.swp
+*~
+*.bak
+Debug/
+*.log
+
